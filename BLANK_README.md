@@ -82,9 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://petlove-blog.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Hey, as mentioned above, it's a little learning project to learn HTML and CSS. Why exactly a blog about animals? I've already grown up with animals, accordingly I've built up a fascination and love for them. So I thought, why not combine the two. So here we are. I hope you guys like it. `xAcid27`, `Petlove Blog`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,14 +90,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [HTML](https://wiki.selfhtml.org/wiki/HTML)
+* [CSS](https://wiki.selfhtml.org/wiki/CSS)
+* [JavaScript](https://www.javascript.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
