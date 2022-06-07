@@ -10,7 +10,7 @@
 <h3 align="center">Petlove</h3>
 
   <p align="center">
-    project_description
+    A small project to learn HTML and CSS :)
     <br />
     <a href="https://github.com/xAcid27/petlove"><strong>Explore the docs »</strong></a>
     <br />
@@ -51,6 +51,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://petlove-blog.com)
 
 Hey, as mentioned above, it's a little learning project to learn HTML and CSS. Why exactly a blog about animals? I've already grown up with animals, accordingly I've built up a fascination and love for them. So I thought, why not combine the two. So here we are. I hope you guys like it. `xAcid27`, `Petlove Blog`
 
